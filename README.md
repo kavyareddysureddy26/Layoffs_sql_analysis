@@ -1,4 +1,8 @@
+**Project Overview**
 
+This project analyzes a layoffs dataset using SQL to understand how layoffs impacted companies, industries, and countries over time.
+The analysis focuses on data cleaning, KPI creation, trend analysis, and business insights to identify patterns such as peak layoff periods, most affected industries.
+The project demonstrates the ability to work with real-world messy data, transform it into a clean analytical dataset, and convert results into clear, decision-ready insights.
 
 ## Data Cleaning
 All data cleaning was done using SQL:
